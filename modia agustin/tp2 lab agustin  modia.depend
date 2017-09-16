@@ -1,0 +1,195 @@
+# depslib dependency file v1.0
+1474686138 source:c:\users\pc\desktop\utn\tp2 lab agustin  modia\funcmodiatp2.c
+	"funcmodiaTP2.h"
+
+1474681745 c:\users\pc\desktop\utn\tp2 lab agustin  modia\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1474686247 source:c:\users\pc\desktop\utn\tp2 lab agustin  modia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1474686756 source:e:\desktop\tp2 lab agustin  modia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1474681745 e:\desktop\tp2 lab agustin  modia\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1474687106 source:e:\desktop\tp2 lab agustin  modia\funcmodiatp2.c
+	"funcmodiaTP2.h"
+
+1493000018 source:c:\users\elmolelaptop\desktop\utn clases nocturno\trabajos practicos\tp2_laboratorio_1-master\funcmodiatp2.c
+	"funcmodiaTP2.h"
+
+1493000018 c:\users\elmolelaptop\desktop\utn clases nocturno\trabajos practicos\tp2_laboratorio_1-master\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1492998277 source:c:\users\elmolelaptop\desktop\utn clases nocturno\trabajos practicos\tp2_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1493029494 source:c:\users\elmolelaptop\desktop\utn clases nocturno\tp2_laboratorio_1-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1493028252 c:\users\elmolelaptop\desktop\utn clases nocturno\tp2_laboratorio_1-master\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1493029076 source:c:\users\elmolelaptop\desktop\utn clases nocturno\tp2_laboratorio_1-master\funcmodiatp2.c
+	"funcmodiaTP2.h"
+
+1495442945 source:c:\users\elmolelaptop\desktop\tp2_laboratorio_1-master\funcmodiatp2.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495441235 c:\users\elmolelaptop\desktop\tp2_laboratorio_1-master\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1495440752 source:c:\users\elmolelaptop\desktop\tp2_laboratorio_1-master\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495479488 source:c:\users\elmolelaptop\desktop\1er prueba\tp2_laboratorio_1-master - copy (5)\funcmodiatp2.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495479488 c:\users\elmolelaptop\desktop\1er prueba\tp2_laboratorio_1-master - copy (5)\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1495440752 source:c:\users\elmolelaptop\desktop\1er prueba\tp2_laboratorio_1-master - copy (5)\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495440754 source:g:\1er prueba\1er prueba\modia agustin\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495479490 g:\1er prueba\1er prueba\modia agustin\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1495484148 source:g:\1er prueba\1er prueba\modia agustin\funcmodiatp2.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495497490 source:c:\users\alumno\desktop\modia agustin\funcmodiatp2.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495479490 c:\users\alumno\desktop\modia agustin\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1495491140 source:c:\users\alumno\desktop\modia agustin\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495497490 source:e:\modia agustin\funcmodiatp2.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
+1495479490 e:\modia agustin\funcmodiatp2.h
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+
+1495491140 source:e:\modia agustin\main.c
+	<stdio.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	"funcmodiaTP2.h"
+
